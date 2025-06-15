@@ -1,2 +1,2 @@
 # mgmt382_team_site
-Team side for group 14
+Team final project for group 14
